@@ -6,7 +6,7 @@ Uploaded .py for all 4 scripts. May add executed .ipynb files for some of the sc
 
 ### Scripts
 
-**SPOTIFYTRACK.py** uses BeautifulSoup to scrape public global Spotify.com chart data and save it into CSV and SQL data sources.
+**SPOTIFYTRACK.py** uses BeautifulSoup and SQLAlchemy to scrape public global Spotify.com chart data and save it into CSV and SQL data sources.
 
 **SPOTIFYANALYZER.py** is a script-based toolset for doing basic analysis of the data gleaned from SPOTIFYTRACK.py, such as time-series graphs of individual songs' streaming performance and computing the top-performing songs across a time period.
 
