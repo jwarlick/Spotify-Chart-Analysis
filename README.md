@@ -8,7 +8,7 @@ Python/SQL scripts for tracking and basic analysis of scraped Spotify.com chart 
 
 **SPOTTOP200VISUALIZER.py** outputs a basic time-series visualization of the daily sum of streams from all top 200 songs on Spotify.
 
-**SPOTWEEKTEST.py** is a bootstrap experiment I designed to test whether the results of SPOTTOP200VISUALIZER.py made sense - a test of whether Spotify's total daily streams from Top 200 songs tends to consistently increase from Monday to Thursday in a given week.
+**SPOTWEEKTEST.py** is a bootstrap experiment I designed to test whether the results of SPOTTOP200VISUALIZER.py made sense - a test of whether Spotify's total daily streams from Top 200 songs tend to consistently increase from Monday to Thursday in a given week.
 
 
 DISCLAIMER:
