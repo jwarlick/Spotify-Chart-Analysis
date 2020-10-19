@@ -1,4 +1,4 @@
-# Spotify Tracking Scripts
+# Spotify Chart Analysis
 
 Python/SQL scripts for tracking and basic analysis of scraped Spotify.com chart data.
 
@@ -19,4 +19,4 @@ I hope to find time to update these scripts before the end of the year, incorpor
 
 Thank you for checking out my work!
 
-John
+John Warlick
