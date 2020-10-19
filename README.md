@@ -1,7 +1,7 @@
 # Spotify Chart Analysis
 Python/SQL scripts for tracking and basic analysis of scraped Spotify.com chart data.
 
-### Update 10/17: 
+#### Update 10/17: 
 Uploaded .py for all 4 scripts. May add executed .ipynb files for some of the scripts in coming weeks.
 
 ### Scripts
@@ -15,7 +15,7 @@ Uploaded .py for all 4 scripts. May add executed .ipynb files for some of the sc
 **SPOTWEEKTEST.py** is a bootstrap experiment I designed to test whether the results of SPOTTOP200VISUALIZER.py made sense - a test of whether Spotify's total daily streams from Top 200 songs tend to consistently increase from Monday to Thursday in a given week.
 
 
-DISCLAIMER:
+#### DISCLAIMER:
 
 Having written these scripts _as_ I was learning Python, they are mostly quite inefficient, clunky, and ugly. However, they do function.
 
