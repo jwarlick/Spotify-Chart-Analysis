@@ -1,9 +1,6 @@
 # Spotify Chart Analysis
 Python/SQL scripts for tracking and basic analysis of scraped Spotify.com chart data.
 
-#### Update 10/17: 
-Uploaded .py for all 4 scripts. May add executed .ipynb files for some of the scripts in coming weeks.
-
 ### Scripts
 
 **SPOTIFYTRACK.py** uses BeautifulSoup and SQLAlchemy to scrape public global Spotify.com chart data and save it into CSV and SQL data sources.
